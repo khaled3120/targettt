@@ -1,0 +1,6 @@
+{
+  "name": "Target Discounts Landing Page",
+  "description": "Mobile-friendly secret discount and rewards landing page for Target shoppers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
